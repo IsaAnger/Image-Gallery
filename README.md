@@ -13,3 +13,6 @@ This is a simple web application showcasing an image gallery with filters for di
 
 License
 This project is licensed under the MIT License.
+
+## Revew code
+-----
